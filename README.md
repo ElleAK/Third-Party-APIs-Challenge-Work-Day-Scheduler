@@ -20,6 +20,7 @@ WHEN I click the save button for that time block THEN the text for that event is
 
 WHEN I refresh the page THEN the saved events persist
 
+
 Created with:
 HTML
 CSS
@@ -30,3 +31,4 @@ GitHub URL: https://github.com/ElleAK/Third-Party-APIs-Challenge-Work-Day-Schedu
 
 Website: https://elleak.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
 
+![image](https://user-images.githubusercontent.com/91795114/160311817-1d4b9531-28ca-4004-9c15-28a6e2a4d101.png)
