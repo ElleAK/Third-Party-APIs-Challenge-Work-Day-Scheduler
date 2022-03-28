@@ -24,7 +24,7 @@ WHEN I refresh the page THEN the saved events persist
 Created with:
 HTML
 CSS
-JavaScript
+JQuery
 
 
 GitHub URL: https://github.com/ElleAK/Third-Party-APIs-Challenge-Work-Day-Scheduler.git
