@@ -20,6 +20,9 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+.jumbotron h1 {
+  font-family: 'Playfair Display';
+}
 #currentDay{
   padding: 10px;
   border: #000000, solid, 3px;
@@ -36,8 +39,9 @@ textarea{
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
+  height: 89px;
   border-top: 1px solid white;
+  margin: 1px;
 }
 
 .hour {
@@ -74,4 +78,11 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+footer {
+  font-family: 'Playfair Display';
+  margin-top: 30px;
+  margin-bottom: 40px;
+  text-align: center;
 }
