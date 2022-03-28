@@ -18,3 +18,12 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+Created with:
+HTML
+CSS
+JavaScript
+
+GitHub URL: https://github.com/ElleAK/Third-Party-APIs-Challenge-Work-Day-Scheduler.git
+Website: https://elleak.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
+
