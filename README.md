@@ -31,4 +31,5 @@ GitHub URL: https://github.com/ElleAK/Third-Party-APIs-Challenge-Work-Day-Schedu
 
 Website: https://elleak.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
 
-![image](https://user-images.githubusercontent.com/91795114/160311817-1d4b9531-28ca-4004-9c15-28a6e2a4d101.png)
+![image](https://user-images.githubusercontent.com/91795114/160314356-44110c96-f1c6-46a6-95a8-63af742740b6.png)
+
